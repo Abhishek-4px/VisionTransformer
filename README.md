@@ -4,15 +4,21 @@ For more clear unerstanding I have added comments on each step where I thought t
 You can play along with the hyperparameters and also you may consider adding a Learning Rate scheduler for keeping it high at the start and then lowering it to prevent Divergence .
 You can also increase EPOCHS ( I used free GPU from colab so I could not train it to the end just stopped at 75% , but it was visible that the model was still not platued and converging after 20 Epochs ) <br>
 <p></p>
+<p></p>
+<p></p>
 
 ![Image of encoder](Transformer.png)<br>
 
 This is the complete structure of Transformer but we will be using only the encoder block Replacing the FeedForward Network with a MultiLayerPerceptron
 <p></p>
+<p></p>
+<p></p>
 
 ![Accuracies Plot](Accuracies.png)<br>
 
 These are the computed accurcies around 20 Epochs
+<p></p>
+<p></p>
 <p></p>
 
 ![Results](Results.png)<br>
