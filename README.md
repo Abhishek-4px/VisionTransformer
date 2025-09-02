@@ -6,21 +6,19 @@ You can also increase EPOCHS ( I used free GPU from colab so I could not train i
 <p></p>
 <p></p>
 <p></p>
-
-![Image of encoder](Transformer.png)<br>
-
 This is the complete structure of Transformer but we will be using only the encoder block Replacing the FeedForward Network with a MultiLayerPerceptron
+![Image of encoder](Transformer.png)<br>
 <p></p>
 <p></p>
 <p></p>
-
-![Accuracies Plot](Accuracies.png)<br>
 
 These are the computed accurcies around 20 Epochs
-<p></p>
-<p></p>
-<p></p>
+![Accuracies Plot](Accuracies.png)<br>
 
-![Results](Results.png)<br>
+<p></p>
+<p></p>
+<p></p>
 
 These are few visualized examples out of all 
+![Results](Results.png)<br>
+
