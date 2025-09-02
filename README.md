@@ -5,7 +5,7 @@ You can play along with the hyperparameters and also you may consider adding a L
 You can also increase EPOCHS ( I used free GPU from colab so I could not train it to the end just stopped at 75% , but it was visible that the model was still not platued and converging after 20 Epochs ) <br>
 <p></p>
 
-This is the complete structure of Transformer but we will be using only the encoder block Replacing the FeedForward Network with a MultiLayerPerceptron
+This is the complete structure of Transformer but we will be using only the encoder block Replacing the FeedForward Network with a MultiLayerPerceptron<br>
 ![Transfromer](Transformer.png)
 
 <p></p>
