@@ -19,4 +19,4 @@ These are the computed accurcies around 20 Epochs
 
 These are few visualized examples out of all 
 ![Results](Results.png)<br>
-nig
+ni
